@@ -28,16 +28,22 @@ p {
 	padding-top:50px;
 }
 
+@media screen and (min-width: 1921px) {
+	.main-container {
+		width: 70%;
+	}
+}
+
 .about-me h1 {
-	font-size:24px;
+	font-size: 24px;
 }
 
 .about-me h2 {
-	font-size:20px;
+	font-size: 20px;
 }
 
 .about-me h3 {
-	font-size:18px;
+	font-size: 18px;
 }
 
 .bottom-cta {
